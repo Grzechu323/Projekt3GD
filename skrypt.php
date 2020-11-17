@@ -22,7 +22,7 @@
     <div class="collapse navbar-collapse" id="navbarColor02">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="?pokaz=""">Strona główna
+                <a class="nav-link" href="?pokaz=">Strona główna
                     <span class="sr-only">(current)</span>
                 </a>
             </li>
