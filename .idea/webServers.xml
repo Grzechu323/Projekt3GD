@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="19161ec8-235a-4aa9-ac5c-be7973269155" name="Orfi">
+        <fileTransfer rootFolder="/home/WMII/s149654" accessType="SFTP" host="orfi.uwm.edu.pl" port="22" sshConfigId="d96ad4b4-e476-4fd3-83b9-35d1d5420bc6" sshConfig="s149654@orfi.uwm.edu.pl:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
